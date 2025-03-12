@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Music Player Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|C:\\Users\\admin\\source\\repos\\Music Player Application\\music player application\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|c:\\users\\admin\\source\\repos\\music player application\\music player application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|C:\\Users\\admin\\source\\repos\\Music Player Application\\music player application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|c:\\users\\admin\\source\\repos\\music player application\\music player application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|C:\\Users\\admin\\source\\repos\\Music Player Application\\music player application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|c:\\users\\admin\\source\\repos\\music player application\\music player application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|C:\\Users\\admin\\source\\repos\\Music Player Application\\music player application\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A40A1B-F740-4B37-8802-1C4E5CD41D66}|Music Player Application\\Music Player Application.csproj|solutionrelative:music player application\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\FormLogin.cs [Design]",
+              "RelativeToolTip": "Music Player Application\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:52:18.239Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\FormLogin.cs",
+              "RelativeToolTip": "Music Player Application\\FormLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:34:02.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Database.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\Database.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Database.cs",
+              "RelativeToolTip": "Music Player Application\\Database.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:35:44.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Form1.cs [Design]*",
+              "RelativeToolTip": "Music Player Application\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:22:07.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Program.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Program.cs*",
+              "RelativeToolTip": "Music Player Application\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:21:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\Form1.cs*",
+              "RelativeToolTip": "Music Player Application\\Form1.cs*",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:24:38.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Music Player Application\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Music Player Application\\Music Player Application\\FormLogin.Designer.cs",
+              "RelativeToolTip": "Music Player Application\\FormLogin.Designer.cs",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAswJEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:06:27.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
